@@ -6,7 +6,7 @@ The .csv files to run this are too big for GitHub, so please follow this Google 
 # Overview
 For these exercises we use JuPyter Notebook and PyTorch for various Machine Learning applications.
 
-In 'MachineLearningTorchEdition' we utilize several different classifiers for the data in our .csv file which consists of 'images' from the Fashion MNIST Dataset, including:
+In 'MachineLearningTorchEdition' we utilize several different classifiers for the data in our .csv file which consists of 'images' from the Fashion MNIST Dataset, including: https://drive.google.com/drive/u/0/folders/1_PW-7mAC5vsPPEHBRh9sToDtybkf_lvT
 * Max-pooling and Array
 * Nearest Neighbor Classifier
 * Decision Tree and Random Forest
